@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aryansh02
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on nothing as of now.
+- 🌱 I’m currently learning C++ and Web Dev.
 - 📫 How to reach me: Email - aryanshrao02@gmail.com
