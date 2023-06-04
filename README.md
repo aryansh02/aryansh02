@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aryansh02
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C++ and Web Dev.
-- 📫 How to reach me: Email - aryanshrao02@gmail.com
+- 👀 I’m interested in Blockchain Development.
+- 🌱 I’m currently learning Solidity.
+- 📫 How to reach me: Email - aryanshrao8744@gmail.com
