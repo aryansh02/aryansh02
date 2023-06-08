@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryansh02
-- 👀 I’m interested in Blockchain Development.
+- 👋 Hey there, I’m Aryansh.
+- 👀 I’m interested in Blockchain and Web3.
 - 🌱 I’m currently learning Solidity.
 - 📫 How to reach me: Email - aryanshrao8744@gmail.com
