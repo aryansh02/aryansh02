@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Aryansh.
-- 👀 I’m interested in Blockchain and Web3.
-- 🌱 I’m currently learning Solidity.
-- 📫 How to reach me: Email - aryanshrao8744@gmail.com
+👋 Hi, I’m Aryansh Rao!
+🌐 Passionate about Web Development and exploring the limitless potential of Web3.
+💡 Currently diving into React and Solidity to build dynamic and decentralized applications.
+📩 Feel free to reach out: aryanshrao8744@gmail.com
